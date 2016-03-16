@@ -1,0 +1,28 @@
+name: Bester Lektor
+favicon: null
+layout_spectrum: 0.7686323467642069
+typography_spectrum: 0.6845545687247068
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.46395913138985634
+  lightness: 0.364414029289037
+  saturation: 0.44716050615534186
+  rhythmicContrast: 0.3736596214585006
+purpose: []
